@@ -1,4 +1,4 @@
-// ===== App State =====
+
 let tasks = []; // { name, description, deadline, completed }
 
 // Optional persistence
